@@ -2,7 +2,7 @@ Questo progetto implementa un sistema completo di Computer Vision che combina l'
 
 L'obiettivo principale è dimostrare come una pipeline di pre-elaborazione dati ben ottimizzata possa migliorare significativamente le performance di un classificatore a valle.
 
-Caratteristiche Principali
+⚙️ Caratteristiche Principali
 
 Sviluppo Sistema: Progettato e implementato un sistema di Computer Vision end-to-end in Python (utilizzando OpenCV, TensorFlow/Keras) per l'elaborazione e la classificazione di immagini.
 
