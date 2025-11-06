@@ -1,4 +1,5 @@
 Sistema End-to-End di Deep Learning per la Classificazione di Immagini con Filtering Avanzato
+
 Descrizione del Progetto
 Questo progetto implementa un sistema completo di Computer Vision che combina l'addestramento di un modello di Deep Learning (basato su TensorFlow/Keras) con tecniche avanzate di Image Filtering (OpenCV) per ottenere una classificazione di immagini più robusta e accurata, specialmente in presenza di rumore nell'input.
 
